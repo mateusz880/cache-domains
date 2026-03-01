@@ -131,6 +131,11 @@
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
-    }
+		},
+		{
+			"name": "spotifi",
+			"description": "CDN for Spotifi",
+			"domain_files": ["spotifi.txt"]
+		}
   ]
 }
